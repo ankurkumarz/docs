@@ -3,19 +3,19 @@
 ## Tech Stack
 ankurkumarz/docs is built on the following main stack:
 
-- [Drone.io](https://drone.io/) – Continuous Integration
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [NGINX](http://nginx.org) – Web Servers
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Drone.io](https://drone.io/) – Continuous Integration
+- [NGINX](http://nginx.org) – Web Servers
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - [Debian](https://www.debian.org/) – Operating Systems
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -25,19 +25,19 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ankurkumarz/docs is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/668/R_wMcCqN_400x400.png' alt='Drone.io'/> [Drone.io](https://drone.io/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/668/R_wMcCqN_400x400.png' alt='Drone.io'/> [Drone.io](https://drone.io/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1656/vd4gAekh.png' alt='Debian'/> [Debian](https://www.debian.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/docs](https://github.com/ankurkumarz/docs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/05/24 <br/>Report generated|
+|22<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
